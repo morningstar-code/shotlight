@@ -1,0 +1,39 @@
+﻿Shotlight
+Copyright (c) 2026 morningstar-code. All rights reserved.
+
+FREE LICENSE TO USE
+
+1. Grant. You may download, install and use Shotlight, for personal or
+   commercial purposes, free of charge, on any number of your own devices.
+
+2. Restrictions. Shotlight is not open source and its source code is not
+   provided. You may not, except where the law expressly allows it despite
+   this restriction:
+   a. sell, rent, lend, sublicense or redistribute Shotlight, in whole or in
+      part, or host it as a service for others;
+   b. modify Shotlight or create derivative works of it;
+   c. decompile, disassemble or otherwise reverse engineer Shotlight, or try
+      to extract its source code;
+   d. remove or alter any copyright, license or attribution notice.
+   You may link to the official download page and share it freely.
+
+3. Third-party components. Shotlight includes open-source components, which
+   are licensed to you under their own licenses, listed with their full texts
+   in THIRD_PARTY_NOTICES.md. Nothing in this license limits your rights under
+   those licenses. Models that Shotlight downloads at your request (extra OCR
+   scripts, visual search) are licensed by their authors under their own terms.
+
+4. Your data. Shotlight runs on your computer. It does not send your
+   screenshots, their text or usage data to the author or anyone else.
+
+5. No warranty. SHOTLIGHT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+6. Limitation of liability. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING LOSS OF DATA, WHETHER IN AN
+   ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH SHOTLIGHT OR ITS USE.
+
+7. Termination. This license ends automatically if you break its terms. You
+   must then stop using and delete Shotlight.
